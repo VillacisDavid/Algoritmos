@@ -6,6 +6,10 @@
 #### Al momento, las funciones disponibles son:
     - Ordenamiento
     - Multiplicacion de matrices
+
+#### Requerimientos
+    - CMake
+    - OpenMP
   
 ### Ordenamiento
 Implementación de algoritmo Quicksort + Insertion sort.  
